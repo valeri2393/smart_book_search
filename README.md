@@ -2,7 +2,7 @@
 
 ## 🦸‍♂️Команда
 1. [Валерия](https://github.com/valeri2393)
-2. [Сауле]()
+2. [Сауле]([SauleBis](https://github.com/SauleBis))
 3. [Савр](https://github.com/SavrOverSide)
 
 ## 🎯 Задача 
