@@ -35,7 +35,7 @@ def embed_bert_cls(text, model=model, tokenizer=tokenizer):
     return embeddings[0].cpu().squeeze()
 
 # Load embeddings
-embeddings = np.loadtxt('models/embeddings.txt')
+embeddings = np.loadtxt('embeddings.txt')
 embeddings_tensor = [torch.tensor(embedding) for embedding in embeddings]
 
 # Create Faiss index
